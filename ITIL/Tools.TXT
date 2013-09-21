@@ -1,0 +1,38 @@
+
+ * Ticketing System
+   * Queue for Requests
+     * Link to Services Catalog
+   * Queue for Incidents
+   * Queue for Problems
+     * Link to Incidents
+   * Queue for Releases
+     * Link to Requests
+     * Link to CI within CMDB
+     * Link to calendar
+   * Queue for Management Approval
+
+ * Documentation Repository
+   * Services Catalog with SLAs
+   * Technical Design documents
+   * Process documents
+   * SOP documents for standard changes
+   * Change log
+
+ * CMDB
+   * Inventory of assets
+   * Current baseline configuration
+   * Code repository
+   * Link to documentation repository
+ 
+ * Shared calendar
+   * Release calendar
+   * Personnel calendar
+
+ * Fault monitoring system
+   * Generate tickets to Incident queue
+
+ * Performance/Utilization monitoring system
+   * Generate traps to Fault monitoring system
+
+
+

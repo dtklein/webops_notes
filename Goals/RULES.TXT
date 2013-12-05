@@ -1,0 +1,9 @@
+0: It is in SCM or it does not exist
+1: Fix-forward, don't roll-back
+2: Fix bugs before new features
+3: Without a README, it is just a pseudocode
+4: If you have to do it more than twice, and it is not intrinsically interesting, automate it
+5: Think re-use: modularize your code and keep reusable subroutines in libraries
+6: Think integration: always provide interfaces to your tools and return data in common data-forms
+7: Config files should be centrally managed; manual maintenance of /etc is too expensive and fragile 
+

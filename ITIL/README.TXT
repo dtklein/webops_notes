@@ -1,5 +1,8 @@
 ITIL is a set of processes that help control IT activity and align all IT activity to value-add services that benefit the business of the company that the IT organization serves. A subset of the processes are described below. 
 
+Service Level Management:
+	A process by which measurable levels of quality of service are defined, and which IT is expected to achieve. Often failure to achieve an agreed upon level of service will incur a penalty for IT.
+
 Change Management:
 	A process that tracks the requests for services to be rendered, and gates requests to ensure that all services align to requests, and that all requests create value for the business.
 
@@ -26,3 +29,11 @@ Capacity Management:
 
 Performance Management:
 	A process by which the performance of IT is scrutinized and evaluated relative to the service level guarantees. 
+
+Quality Assurance:
+	A process executed during Change Management and during Service Design, to ensure that a service -- as planned -- meets the needs of the business.
+
+Quality Control:
+	A process executed during Service Delivery, to ensure that the service -- as provisioned -- implements the service as designed. 
+
+
